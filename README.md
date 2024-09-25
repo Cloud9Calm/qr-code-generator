@@ -24,7 +24,7 @@ This project generates a QR code containing your contact information in the vCar
 
 
 2. Copy the following code into generate_qr_code.py:
-    ``bash
+    ```python
     import qrcode
 
     # vCard information for Erin Cronie
